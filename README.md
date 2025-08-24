@@ -216,6 +216,15 @@ For issues and questions:
 - Review environment variable setup
 
 ---
+The password for postegsql are
+
+Username: postgres
+
+Password: StrongPassword123!
+
+Database: postgres
+
+
 
 **Made with ❤️ using Next.js and deployed on Vercel**
 
